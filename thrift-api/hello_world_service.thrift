@@ -1,4 +1,4 @@
-namespace java com.miaow.thrift
+namespace java com.miaow.thrift.iface.hello_world
 
 // 定义请求参数
 struct HelloRequest {
